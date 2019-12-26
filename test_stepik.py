@@ -376,8 +376,4 @@ def test24_step_8 ():
 
 
 
-    print("change for test git");
-
-
-
 
