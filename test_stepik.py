@@ -68,7 +68,7 @@ def test_search_elements_4 ():
         driver.quit()
 
 
-def test_search_elements_7 ():
+def test_search_elements_7():
 
     try:
         driver.get("http://suninjuly.github.io/huge_form.html")
@@ -376,6 +376,7 @@ def test24_step_8 ():
 
 
 
+    print("change for test git")
 
 
 
