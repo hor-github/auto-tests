@@ -382,6 +382,6 @@ def test24_step_8 ():
 
     print("for secondBranch")
 
-    print("commit for master2 4.01")
+    print("commit for master 4.01")
 
     print("commit for secondBranch 4.01")
