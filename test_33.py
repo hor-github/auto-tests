@@ -14,7 +14,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 
 #driver = WebDriver(executable_path='C://selenium//chromedriver.exe')
-driver = WebDriver(r'/ChromeDriver/chromedriver')
+driver = WebDriver('/home/hor/ChromeDriver/chromedriver')
+#driver = WebDriver.Chrome(r'/ChromeDriver/chromedriver')
 
 def test_22 ():
     try:
